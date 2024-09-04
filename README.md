@@ -89,7 +89,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/VeezeNL/VeezeNL/output/snake.svg" alt="Snake animation" />
-
-###
