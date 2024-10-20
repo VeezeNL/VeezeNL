@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">I'm The Netherlands from Amsterdam<br><br>- 🔭 I’m working as: Mechanic<br>- 📚 I'm currently learning: LUA<br>- ⚡ In my free time: I work on moped's</p>
+<p align="left">I'm The Netherlands from Amsterdam<br><br>- 🔭 I’m working as: Mechanic<br>- 📚 I'm currently learning: LUA<br>- ⚡ In my free time: I work on Nieuwkerk Roleplay</p>
 
 ###
 
